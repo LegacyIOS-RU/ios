@@ -1,8 +1,8 @@
-Origin: koke228 cydia repo
-Label: koke228 cydia repo
+Origin: LegacyIOS cydia repo
+Label: LegacyIOS cydia repo
 Suite: stable
 Version: 1.0
 Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: popi jopi
+Description: LegacyIOS repo with tweaks for ios 1-10
