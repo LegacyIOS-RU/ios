@@ -1,0 +1,8 @@
+Origin: koke228 cydia repo
+Label: koke228 cydia repo
+Suite: stable
+Version: 1.0
+Codename: cydia-ios
+Architectures: iphoneos-arm
+Components: main
+Description: popi jopi
