@@ -388,7 +388,7 @@ SHA256: a23726c1671ef593035b1982175589312ded8f9d6679976d2c45efd4ccfd5238
 SHA521: 4ca4bd693fce68236cb5ee0c5ca9e4d401173a9c12101645ba5327debddaebb3264ea168af6b8acf8bbe9b26ea7f82953ded66f92a2bdfd6c77535b9304e59d3
 
 Package: sbsettings
-Section: System
+Section: Tweaks
 Installed-Size: 1953
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Architecture: iphoneos-arm
