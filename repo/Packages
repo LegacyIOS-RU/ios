@@ -497,7 +497,7 @@ SHA256: aff56f9592096f6f22b78bf177eede4155219cee04529702f8331e0d4ecbc879
 SHA521: 6e7277fa9358d053ba6f6f8326acb79c159ea7f9c1c87e1082ff45184bd8a3b376bac6fecc1d0b3da8e5e9ef2f2a878eab73942301b0930d698651a0ded46837
 
 Package: vn.gsm.ifile
-Section: !CydiaVn-Apps
+Section: Tweaks
 Installed-Size: 20224
 Maintainer: Cydia.vn <repo@cydia.vn>
 Architecture: iphoneos-arm
@@ -519,11 +519,11 @@ SHA521: 6ca6552c5b5526cc007a11e87d48ce7299dfe1a23b1181b877f38ea9af776ffa907716bd
 
 Package: vn.gsm.localiapstore
 Priority: optional
-Section: !CydiaVn-Tools
+Section: Tweaks
 Maintainer: Cydia.vn <repo@cydia.vn>
 Architecture: iphoneos-arm
 Version: 1.4-2
-Depends: gsmicon, firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
 Conflicts: anondev.localiapstore
 Description: Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!
 Name: LocalIAPStore
