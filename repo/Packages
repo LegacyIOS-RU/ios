@@ -14,7 +14,7 @@ Homepage: https://cydia.akemi.ai/
 Name: AppSync Unified
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Filename: debs/ai_akemi_appsyncunified_110_0_iphoneos-arm.deb
-Depiction: https://imnotsatan.github.io/depictions/ai.akemi.appsyncunified.html
+Depiction: https://legacyios-ru.github.io/ios/repo/depictions/ai.akemi.appsyncunified.html
 Icon: https://imnotsatan.github.io/icons/ai.akemi.appsyncunified.png
 Size: 56600
 MD5sum: 9daf9eaaf1d02e6c1c4d9353b3497696
@@ -35,7 +35,7 @@ Section: Tweaks
 Version: 1.4
 Installed-Size: 104
 Filename: debs/com.linusyang.appsyncnew_1.4.deb
-Depiction: https://imnotsatan.github.io/depictions/com.linusyang.appsyncnew.html
+Depiction: https://legacyios-ru.github.io/ios/repo/depictions/com.linusyang.appsyncnew.html
 Icon: https://imnotsatan.github.io/icons/com.linusyang.appsyncnew.png
 Size: 6436
 MD5sum: b4f4fc9eb7f8e7e5c0dd8b6d3a7d3b49
@@ -152,7 +152,7 @@ Homepage: http://1pwn.ixmoe.com/
 Author: Electimon <electimon@gmail.com>
 Icon: file:///Applications/Veteris.app/AppIcon57x57@2x.png
 Filename: debs/com_ixmoe_1pwn_veteris_1_7_1_iphoneos-arm.deb
-Depiction: https://imnotsatan.github.io/depictions/com.ixmoe.1pwn.veteris.html
+Depiction: https://legacyios-ru.github.io/ios/repo/depictions/com.ixmoe.1pwn.veteris.html
 Icon: https://imnotsatan.github.io/icons/com.ixmoe.1pwn.veteris.png
 Size: 397888
 MD5sum: e135346745a7999a0698196d8385e6ed
