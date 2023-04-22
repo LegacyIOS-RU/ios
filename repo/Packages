@@ -1,0 +1,606 @@
+Package: ai.akemi.appsyncunified
+Version: 110.0
+Section: Tweaks
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.3.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute
+Provides: appsync, net.angelxwind.appsyncunified
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Architecture: iphoneos-arm
+Filename: ./debs/ai_akemi_appsyncunified_110_0_iphoneos-arm.deb
+Size: 56600
+Installed-Size: 700
+MD5sum: 9daf9eaaf1d02e6c1c4d9353b3497696
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Name: AppSync Unified
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Homepage: https://cydia.akemi.ai/
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+
+Package: anondev.LocalIAPStore
+Version: 1.4-1
+Priority: optional
+Section: Tweaks
+Maintainer: 
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Conflicts: 
+Replaces: 
+Architecture: iphoneos-arm
+Filename: ./debs/anondev.LocalIAPStore_1.4-1_iphoneos-arm.deb
+Size: 71170
+MD5sum: adce93b64675706f4a4c4b5204a1e8fe
+Description: Pwns In-app purchases on iOS 5.1.1 - 7.1 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
+Name: LocalIAPStore
+Author: anondev
+Homepage: 
+Depiction: 
+Icon: 
+
+Package: com.a3tweaks.flipswitch
+Version: 1.0.16
+Section: System
+Maintainer: rpetrich & a3tweaks <rpetrich+flipswitch@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.9) | firmware (<< 7.0)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch, com.jakeashacks.realcc (<< 1.0.2)
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift, com.jakeashacks.realcc (<< 1.0.2)
+Architecture: iphoneos-arm
+Filename: ./debs/com_a3tweaks_flipswitch_1_0_16_iphoneos.deb
+Size: 611728
+Installed-Size: 2408
+MD5sum: c80ba3846dc1b7b1673f5041cba3bcf4
+Description: Centralized toggle system for iOS
+Name: Flipswitch
+Author: rpetrich <rpetrich+flipswitch@gmail.com>
+Homepage: https://rpetrich.com/cydia/flipswitch/
+Depiction: https://rpetrich.com/cydia/flipswitch/
+Icon: file:///Applications/Preferences.app/icon-table.png
+
+Package: com.autopear.installipa
+Version: 3.4.1-1
+Section: Utilities
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 4.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com_autopear_installipa_3_4_1-1_iphoneos-arm.deb
+Size: 151614
+Installed-Size: 238
+MD5sum: de5da51b0fc4fd98e3fd4b14cd1116fa
+Description: Install IPA from the command line
+Name: IPA Installer Console
+Author: Merlin <lonelystars@gmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ipainstallerconsoleDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ipainstallerconsoleDp
+
+Package: com.exile90.icleanerpro
+Version: 7.10.0
+Section: Utilities
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Architecture: iphoneos-arm
+Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm.deb
+Size: 2450460
+MD5sum: 830ebd462d173a9211f5f7c41ce64d1a
+Description: The first real iOS system cleanup and management utility
+Name: iCleaner Pro
+Author: Ivano Bilenchi <support@ib-soft.net>
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+
+Package: com.hackyouriphone.accentify
+Version: 0.0.1r12-2
+Section: HYI - Tweaks
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: ./debs/com.hackyouriphone.accentify_0.0.1r12-2_iphoneos-arm.deb
+Size: 46754
+MD5sum: 88eb8dfb1b1955844079c948f259f879
+Description: choose from colorful iOS UI themes
+Name: Accentify
+Author: rms <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=accentify
+
+Package: com.hackyouriphone.deezelife
+Version: 0.5
+Section: HYI - Tweaks
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Deezelife.deb
+Size: 46246
+MD5sum: 25ac0ef194e5eed8eec809c6d37bdde8
+Description: Deezer Fully Premium Features, Unrestrict Music... Requires Deezer App (AppStore)
+Name: Deezelife
+Author: julioverne <repo@hackyouriphone.org>
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=deezelife
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=deezelife
+
+Package: com.ixmoe.1pwn.veteris
+Version: 1.7.1
+Section: Utilities
+Maintainer: Electimon <electimon@gmail.com>
+Depends: firmware (>= 5.0), appsync
+Architecture: iphoneos-arm
+Filename: ./debs/com_ixmoe_1pwn_veteris_1_7_1_iphoneos-arm.deb
+Size: 397888
+MD5sum: e135346745a7999a0698196d8385e6ed
+Description: A Client for the Veteris Server.
+Name: Veteris
+Author: Electimon <electimon@gmail.com>
+Homepage: http://1pwn.ixmoe.com/
+Icon: file:///Applications/Veteris.app/AppIcon57x57@2x.png
+
+Package: com.ixmoe.1pwn.weatherx
+Version: 1.0.1-1+debug
+Section: Tweaks
+Maintainer: electimon
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./debs/com_ixmoe_1pwn_weatherx_1_0_1-1_debug_iphoneos-arm.deb
+Size: 4254
+Installed-Size: 104
+MD5sum: 330dfe2511fca9e68fc427b5ef0de713
+Description: Redirect Weather requests to my server!
+Name: WeatherX
+Author: electimon
+
+Package: com.linusyang.appsyncnew
+Version: 1.4
+Section: Tweaks
+Maintainer: Linus Yang
+Depends: mobilesubstrate
+Conflicts: com.linusyang.appsync, net.angelxwind.appsyncunified
+Provides: appsync
+Architecture: iphoneos-arm
+Filename: ./debs/com.linusyang.appsyncnew_1.4.deb
+Size: 6436
+Installed-Size: 104
+MD5sum: b4f4fc9eb7f8e7e5c0dd8b6d3a7d3b49
+Description: bypass signature check of installd
+Name: AppSync New
+Author: Linus Yang
+
+Package: com.mdausch.exampletweak
+Version: 0.0.2-2+debug
+Section: Tweaks
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.mdausch.exampletweak_0.0.2-2+debug_iphoneos-arm.deb
+Size: 1702
+Installed-Size: 104
+MD5sum: 31301ab1bffd3af1d89979569cca8132
+Description: An example package for testing out our personal Cydia repository
+Name: ExampleTweak
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Depiction: https://mdausch.github.io/depictions/?p=com.mdausch.exampletweak
+
+Package: com.modmyi.besttube
+Version: 1.1
+Section: Applications
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.besttube_1.1_iphoneos-arm.deb
+Size: 736100
+MD5sum: 3cfd1bca8194bd3cf0d4f39f60b9a0ff
+Description: Enjoy your music anytime and anywhere. Search music videos, create playlists, listen while app is in background!
+Name: Best Tube
+Author: ioslinks <kobisn@icloud.com>
+Homepage: http://modmyi.com/info/besttube.php
+Depiction: http://modmyi.com/info/besttube.d.php
+
+Package: com.modmyi.serioussbsettingshd
+Version: 1.4-1
+Section: Themes (SBSettings)
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: sbsettings
+Architecture: iphoneos-arm
+Filename: ./debs/com_modmyi_serioussbsettingshd_1_4-1_iphoneos-arm.deb
+Size: 2454098
+Installed-Size: 2694
+MD5sum: 02e9d2e9846981ddf68d904ae65ae9fa
+Description: Retina / HD SBSettings theme for SBSettings
+Name: Serious SBSettings HD
+Author: Max Rudberg <max@maxthemes.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=serioussbsettingshdData
+
+Package: com.piercingimpulse.verduraios
+Version: 0.0.2
+Section: Tweaks
+Maintainer: PiercingImpulse
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./debs/com.piercingimpulse.verduraios_0.0.2_iphoneos-arm.deb
+Size: 36258
+Installed-Size: 328
+MD5sum: 8cb7896285b3e515476450cb36093c31
+Description: Tired to watch YouTube on Safari or Google Chrome on older device? Download YouTube 10.11.11546, spoof the version on the plist file and then get VerduraiOS! For the full guide on how to use it, please visit my GitHub page :)
+Name: Verdura iOS [BETA]
+Author: PiercingImpulse
+
+Package: com.rbt.useragentchanger
+Version: 1.1.10
+Priority: extra
+Section: Tweaks
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: ./debs/com_rbt_useragentchanger_1_1_10_iphoneos-arm.deb
+Size: 53448
+MD5sum: 28b74eccfd4c5f81f64c3d3647865612
+Description: Change your Browser's User Agent.
+Name: User Agent Changer
+Author: rbt <rbt@rtapps.de>
+Homepage: http://modmyi.com/info/useragentchanger.php
+Depiction: http://modmyi.com/info/useragentchanger.d.php
+
+Package: com.repo.xarold.com.cydown
+Version: 6.8.8
+Section: Tweaks
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com_repo_xarold_com_cydown_6_8_8_iphoneos-arm.deb
+Size: 1022436
+MD5sum: 3061a19d55910d681de31b83974089df
+Description: Cydia Download Manager & Extra Features!
+Name: CyDown
+Author: julioverne
+Depiction: http://repo.xarold.com/depiction.php?id=cydown
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.10~beta1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com_rpetrich_rocketbootstrap_1_0_10_beta1_iphoneos-arm.deb
+Size: 123918
+Installed-Size: 596
+MD5sum: d9c17c109744609bad74701b1732b032
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Name: RocketBootstrap
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+
+Package: com.sam.yandexmusicfree
+Version: 1.0
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.sam.yandexmusicfree_1.0_iphoneos-arm.deb
+Size: 4990
+Installed-Size: 124
+MD5sum: d7d583cbcfc3b751cf094660802fc3d2
+Description: Функционирование приложения без подписки.
+ Данный патч позволит использовать Я.Музыку безвозмездно, а также добавит историю прослушивания в «Радио».
+ !!! Тестировал на версии 4.76 !!!
+ 
+ Отблагодарить / поддержать меня можно донатом на Я.Кошелёк
+ 410014922709431
+ 
+ Связь со мной:
+ форум 4pda / -=sam=-
+ instagram / alxr_s
+ telegram / alxr_s
+Name: Yandex Music Free
+Author: -=sam=-
+
+Package: com.slugrail.ipainstaller
+Version: 3.23
+Section: Utilities
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 5.0), com.autopear.installipa (>= 3.4)
+Architecture: iphoneos-arm
+Filename: ./debs/com_slugrail_ipainstaller_3_23_iphoneos-arm.deb
+Size: 1519336
+Installed-Size: 1614
+MD5sum: 4fa98f99219c83685d0a0f1a1065d823
+Description: Install IPA files directly from device
+Name: IPA Installer
+Author: slugrail <support@hshersy.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ipainstallerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ipainstallerDp
+Icon: file:///Applications/IPA_Installer.app/Icon.png
+
+Package: curl
+Version: 7.33.0-9
+Priority: standard
+Section: Networking
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl
+Architecture: iphoneos-arm
+Filename: ./debs/curl_7.33.0-9_iphoneos-arm.deb
+Size: 275848
+Installed-Size: 724
+MD5sum: 9555aec6ea41e0cdeb3aab0f84313eb1
+Description: flexible multi-protocol file transfers
+Name: cURL
+Homepage: http://curl.haxx.se/
+
+Package: eu.heinelt.ifile
+Version: 1.6.1-1
+Section: System
+Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
+Architecture: iphoneos-arm
+Filename: ./debs/eu.heinelt.ifile_1.6.1_1_iphoneos_arm_fabius.deb
+Size: 3418718
+Installed-Size: 9748
+MD5sum: 76077deb77fedbc0ee0f96e279f2e478
+Description: A File Manager and Viewer. iFile is a file manager runnning under user root. It allows fast navigation through the iPhone file system. It allows direct viewing of files of various types, e.g. movies, sound, text, HTML, Microsoft types, PDF, ZIP. For PDF files direct jumping to pages is possible. ZIP packing and unpacking is also supported. Files can be sent as email attachments. Text files and property lists can be edited. Folders and files can be bookmarked. In addition, files can be uploaded and downloaded from iFile's built-in web server.
+Name: iFile
+Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ifileData
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ifileData
+
+Package: kloader
+Version: 1.0
+Priority: optional
+Section: System
+Maintainer: tihmstar
+Depends: firmware (>= 6.0)
+Conflicts: cy+cpu.arm64
+Architecture: iphoneos-arm
+Filename: ./debs/kloader_1.0_iphoneos-arm.deb
+Size: 7982
+MD5sum: 16347bf66c0c84e4870d2cbba42d1dee
+Description: Don't install if you don't know what that is
+	Do not install this package if you don't know what this is.
+	Installing this on a production device is not recommended.
+Name: kloader
+Author: winocm, xerub
+Homepage: https://github.com/xerub/ios-kexec-utils/blob/master/kloader.c
+
+Package: libactivator
+Version: 1.9.13
+Priority: optional
+Section: System
+Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~rc3), com.rpetrich.rocketbootstrap (>= 1.0.9)
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Architecture: iphoneos-arm
+Filename: ./debs/libactivator_1_9_13_iphoneos-arm.deb
+Size: 1783844
+Installed-Size: 5060
+MD5sum: d8b2fe111aa9e943bb8a6d464e97ee39
+Description: Centralized gestures, button and shortcut management for iOS
+Name: Activator
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Homepage: https://rpetrich.com/cydia/activator/
+Depiction: https://rpetrich.com/cydia/activator/
+Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
+
+Package: libcrippy-1.0.0
+Version: 1.0
+Priority: optional
+Section: Development
+Maintainer: tihmstar
+Depends: firmware (>= 6.0)
+Architecture: iphoneos-arm
+Filename: ./debs/libcrippy-1.0.0_1.0_iphoneos-arm.deb
+Size: 15858
+MD5sum: d0057e3946594ac6c18b7112383955e5
+Name: libcrippy-1.0.0
+Author: Drew Alden, Ethan Laur, Joshua Lee Tucker, L0 Ki, Patroklos Argyroudis
+Homepage: https://www.openjailbreak.org/projects/libcrippy-1-0
+
+Package: libhide
+Version: 2.4.1-1
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./debs/libhide_2_4_1-1_iphoneos-arm.deb
+Size: 46366
+Installed-Size: 232
+MD5sum: af5841a9afa0bf5a360112909c8d9557
+Description: Library to hide icons.
+Name: libhide
+Author: BigBoss <bigboss@thebigboss.org>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libhideDp
+
+Package: libpartialzip-1.0.0
+Version: 1.0
+Priority: optional
+Section: Development
+Maintainer: tihmstar
+Depends: firmware (>= 6.0), libcrippy-1.0.0
+Architecture: iphoneos-arm
+Filename: ./debs/libpartialzip-1.0.0_1.0_iphoneos-arm.deb
+Size: 6830
+MD5sum: ab609167a1653beda05eb2876f2500bd
+Name: libpartialzip-1.0.0
+Author: Drew Alden, Ethan Laur, Joshua Lee Tucker, L0 Ki, Patroklos Argyroudis
+Homepage: https://www.openjailbreak.org/projects/libcrippy-1-0
+
+Package: org.h6nry.adowngrader
+Version: 0.0.2-7
+Section: Tweaks
+Maintainer: H6nry <henry.anonym@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/org_h6nry_adowngrader_0_0_2-7_iphoneos-arm.deb
+Size: 58178
+Installed-Size: 304
+MD5sum: 019f02e7a442609084428e89374ce48a
+Description: Downgrade your apps. Well, at least try it.
+Name: Adowngrader
+Author: H6nry <henry.anonym@gmail.com>
+
+Package: org.mtmdev.YewTube
+Version: 1.0.1
+Section: Internet
+Maintainer: Electimon <electimon@gmail.com>
+Depends: firmware (>= 5.0), appsync
+Architecture: iphoneos-arm
+Filename: ./debs/YewTube-v1.0.1.deb
+Size: 538
+MD5sum: f230b8dbcaf21cc26e53f06fa2a9e396
+Description: A YouTube client made in Objective-C utilizing the power of Invidious.
+Name: YewTube
+Author: Electimon <electimon@gmail.com>
+Homepage: http://mtmdev.org
+Icon: http://2pwn.tk/dev/icons/YewTube.png
+
+Package: org.tihmstar.kDFUApp
+Version: 1.0.2
+Priority: optional
+Section: System
+Maintainer: tihmstar
+Depends: openssl, libcrippy-1.0.0, libpartialzip-1.0.0, curl, kloader, firmware (>= 6.0)
+Architecture: iphoneos-arm
+Filename: ./debs/org.tihmstar.kdfuapp_1.0.2_iphoneos-arm.deb
+Size: 80458
+MD5sum: d2fb236c946705c835a08f844527f0c1
+Description: easy way to get into kDFU mode
+	kDFUApp is an easy way to get into kDFU mode
+	simply activate all switches and press the button
+	<br>
+	<br>Currently compatible with:
+	<br>iPhone3,1 / iPhone3,2 / iPhone3,3 / iPhone4,1 / iPhone5,1 / iPhone5,2 / iPhone5,4
+	<br>iPad2,1 / iPad2,2 / iPad2,3 / iPad3,1 / iPad3,3
+	<br>
+	<br>NOT COMPATIBLE WITH 64BIT DEVICES!
+Name: kDFUApp
+Author: tihmstar
+
+Package: sbsettings
+Version: 6.0.5-1
+Section: System
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: libhide (>= 2.0.6-4), mobilesubstrate, sbsettingstoggles (>= 3.0.5), shell-cmds, firmware (<< 4.0) | libactivator (>= 1.3.2), firmware (<< 5.0) | com.chpwn.weeloader
+Conflicts: com.ripdev.hood, hk.org.iphone.respring, net.ispazio.swapmode
+Replaces: com.ripdev.hood, hk.org.iphone.respring
+Architecture: iphoneos-arm
+Filename: ./debs/sbsettings_6_0_5-1_iphoneos-arm.deb
+Size: 2142378
+Installed-Size: 1953
+MD5sum: c7e5a6939938281ffe12430f5b9cd5ee
+Description: Move common toggles directly into springboard where they're always there!
+Name: SBSettings
+Author: BigBoss <bigboss@thebigboss.org>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=SBSettingsDpData
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=SBSettingsDpData
+
+Package: sbsettingstoggles
+Version: 6.0-2
+Section: SBSettings Addons
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: com.modmyi.serioussbsettingshd, com.sbsdefaulthdtheme, firmware (>= 3.2) | sbsettingsdata2
+Conflicts: sbsettingstoggles1, sbsettingsfastnotes, sbsettingsprocesses, sbslocationservices, sbsettingsdata, com.yllier.mdatatoggle
+Replaces: sbsettingstoggles1, sbsettingsfastnotes, sbsettingsprocesses, sbslocationservices, sbsettingsdata, com.yllier.mdatatoggle, sbsettings (<= 3.0.6b3)
+Architecture: iphoneos-arm
+Filename: ./debs/sbsettingstoggles_6_0-2_iphoneos-arm.deb
+Size: 389528
+Installed-Size: 822
+MD5sum: 334c344aa49f86b932372e9123d38a36
+Description: These are the built in toggles for the SBSettings app.
+Name: sbsettingstoggles
+Author: BigBoss <bigboss@thebigboss.org>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/SBSettings.php
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbsettingstoggles
+
+Package: uk.invoxiplaygames.checkmatestore
+Version: 1.2
+Section: Tweaks
+Maintainer: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depends: mobilesubstrate, firmware (>= 2.0)
+Architecture: iphoneos-arm
+Filename: ./debs/uk_invoxiplaygames_checkmatestore_1_2_iphoneos-arm.deb
+Size: 8400
+Installed-Size: 164
+MD5sum: 7db9d05606193695a80ee936ff456d2a
+Description: Disable capability limits in the App Store.
+Name: Checkmate, Store!
+Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depiction: http://cydia.invoxiplaygames.uk/dp/checkmatestore.php
+
+Package: uk.invoxiplaygames.googlesigninfix
+Version: 1.0.1
+Section: Tweaks
+Maintainer: InvoxiPlayGames
+Depends: mobilesubstrate, firmware (>= 6.0)
+Architecture: iphoneos-arm
+Filename: ./debs/uk.invoxiplaygames.googlesigninfix_1.0.1.deb
+Size: 3432
+Installed-Size: 52
+MD5sum: 9112f892fbaaa0b307151cfd1bad5276
+Description: Fixes Google-owned app login on iOS 6.
+Name: GSignInFix
+Author: InvoxiPlayGames
+Depiction: http://cydia.invoxiplaygames.uk/dp/gsigninfix.php
+
+Package: uk.invoxiplaygames.simalertsuppression
+Version: 1.0
+Section: Tweaks
+Maintainer: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depends: mobilesubstrate, firmware (>=5.0)
+Conflicts: uk.invoxiplaygames.letmestealinpeace
+Architecture: iphoneos-arm
+Filename: ./debs/uk.invoxiplaygames.simalertsuppression_1.0_iphoneos-arm.deb
+Size: 2810
+Installed-Size: 132
+MD5sum: 93cd24e6c82108068e54435453587ac4
+Description: Removes SIM-related alerts from SpringBoard
+Name: SIM Alert Suppression
+Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depiction: http://cydia.invoxiplaygames.uk/dp/simalertsuppression.php
+
+Package: uk.invoxiplaygames.tubefixer
+Version: 2.0-194+debug
+Section: Tweaks
+Maintainer: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Pre-Depends: dpkg (>= 1.13.25-5)
+Depends: mobilesubstrate, firmware (>= 3.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/uk_invoxiplaygames_tubefixer_2_0-194_debug_iphoneos-arm.deb
+Size: 43992
+Installed-Size: 156
+MD5sum: 4cfffc20e81dc33838143018a16918c0
+Description: Package to fix YouTube on iOS 3-5
+Name: TubeFixer for iOS
+Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Homepage: http://tubefixer.ovh/
+Depiction: http://cydia.invoxiplaygames.uk/dp/tubefixer.php
+Icon: file:///Library/Application%20Support/uk.invoxiplaygames.tubefixer/tubefixericon.png
+
+Package: uk.invoxiplaygames.twifixer
+Version: 0.2.1
+Section: Tweaks
+Maintainer: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/uk_invoxiplaygames_twifixer_0_2_1_iphoneos-arm.deb
+Size: 5252
+Installed-Size: 164
+MD5sum: f2eeb4cb8aed9036a0ae050e55deaff1
+Description: Tweak to let you use Twitter on iOS 5 and iOS 7 (and probably more)
+Name: TwiFixer
+Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depiction: http://cydia.invoxiplaygames.uk/dp/twifixer.php
+
+Package: uk.invoxiplaygames.youtube
+Version: 1.0
+Priority: optional
+Section: Entertainment
+Maintainer: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depends: firmware (>= 6.0), firmware (<= 7.0)
+Conflicts: com.tekwik.youtube
+Architecture: iphoneos-arm
+Filename: ./debs/uk_invoxiplaygames_youtube_1_0_iphoneos-arm.deb
+Size: 311210
+MD5sum: 9b350e68b47e3798bcfcd3173bb20c07
+Description: Returns the classic YouTube app to iOS 6.
+Name: Classic YouTube App
+Author: InvoxiPlayGames
+Depiction: http://cydia.invoxiplaygames.uk/dp/youtube.php
+
